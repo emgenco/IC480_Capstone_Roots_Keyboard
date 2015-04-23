@@ -1,0 +1,5 @@
+/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/build/intermediates/classes/debug
+/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-9faec7a64b2e069fb3270bb0e99fc5010d05f47b.jar
+/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ae71aadd50ec39a8ce52e2e34b09d125bd59a23d.jar
+/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/build/intermediates/pre-dexed/debug/classes-6420d703e73ae7ef559d565f2e55d8d73fa0f962.jar
+/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/build/intermediates/pre-dexed/debug/classes-772e408e0265f11126756bf31aafb0b7f852b5cc.jar

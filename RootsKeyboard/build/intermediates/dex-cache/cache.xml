@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/build/intermediates/pre-dexed/debug/classes-772e408e0265f11126756bf31aafb0b7f852b5cc.jar" />
+    </item>
+    <item
+        jar="/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ae71aadd50ec39a8ce52e2e34b09d125bd59a23d.jar" />
+    </item>
+    <item
+        jar="/Users/ryankelley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-9faec7a64b2e069fb3270bb0e99fc5010d05f47b.jar" />
+    </item>
+    <item
+        jar="/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/build/intermediates/pre-dexed/debug/classes-6420d703e73ae7ef559d565f2e55d8d73fa0f962.jar" />
+    </item>
+
+</items>

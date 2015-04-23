@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.usna.ryankelley.rootskeyboard.MyKeyboardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/keyboard"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:keyPreviewLayout="@layout/preview"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    />
