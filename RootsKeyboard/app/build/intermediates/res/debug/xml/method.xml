@@ -4,4 +4,4 @@
         android:label="@string/subtype_en_US"
         android:imeSubtypeLocale="en_US"
         android:imeSubtypeMode="keyboard"/>
-</input-method><!-- From: file:/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/src/main/res/xml/method.xml -->
+</input-method><!-- From: file:/home/research/capstone/IC480_Capstone_Roots_Keyboard/RootsKeyboard/app/src/main/res/xml/method.xml -->

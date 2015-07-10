@@ -45,4 +45,4 @@
         <Key android:codes="46" android:keyLabel="." android:keyWidth="10%p"/>
         <Key android:codes="-4" android:keyLabel="DONE" android:keyWidth="15%p" android:keyEdgeFlags="right"/>
     </Row>
-</Keyboard><!-- From: file:/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/src/main/res/xml/qwerty.xml -->
+</Keyboard><!-- From: file:/home/research/capstone/IC480_Capstone_Roots_Keyboard/RootsKeyboard/app/src/main/res/xml/qwerty.xml -->

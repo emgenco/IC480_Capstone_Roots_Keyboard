@@ -8,4 +8,4 @@
     android:keyPreviewLayout="@layout/preview"
     android:layout_centerHorizontal="true"
     android:layout_centerVertical="true"
-    /><!-- From: file:/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/src/main/res/layout/keyboard.xml -->
+    /><!-- From: file:/home/research/capstone/IC480_Capstone_Roots_Keyboard/RootsKeyboard/app/src/main/res/layout/keyboard.xml -->

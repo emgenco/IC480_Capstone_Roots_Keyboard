@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/ryankelley/AndroidStudioProjects/RootsKeyboard/app/src/main/res/values-w820dp/dimens.xml -->
+    <!-- From: file:/home/research/capstone/IC480_Capstone_Roots_Keyboard/RootsKeyboard/app/src/main/res/values-w820dp/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">64dp</dimen>
 </resources>
