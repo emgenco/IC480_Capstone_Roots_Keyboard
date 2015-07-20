@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="web.css">
+
+    <script type="text/javascript">
+    function randomPassword(length) {
+    var chars = "abcdefghijklmnopqrstuvwxyABCDEFGHIJKLMNOP1234567890!@#$%^&*()_+-=[]{}|;:,.<>?~`";
+    var pass = "";
+    for (var x = 0; x < length; x++) {
+        var i = Math.floor(Math.random() * chars.length);
+        pass += chars.charAt(i);
+    }
+    return pass;
+}
+
+function generate() {
+
+    var newpass = document.getElementById("genword");
+    var randNum = Math.floor(Math.random() * (16 - 10) + 10);
+    window.alert(randNum);
+    newpass.innerHTML = randomPassword(randNum);
+}
+
+
+</script>
+</head>
+<body onload="generate();">
+
+<nav>
+    <ul>
+        <li><a href="home.html">Home</a></li>
+        <li>
+            <a href="products.html">Get Acquainted <span class="caret"></span></a>
+            <div>
+                <ul>
+                    <li><a href="teleKeys.html">TeleKeys</a></li>
+                    <li><a href="qwerty.html">QWERTY</a></li>
+
+                </ul>
+            </div>
+        </li>
+        <li><a href="test.html">Test</a></li>
+        <li><a href="help.html">Help</a></li>
+    </ul>
+</nav>
+
+<p id="genword">Password</p>
+<form>
+    <input type= name="pass">
+</form>
+<button type="button"> Submit </button>
+
+
+</body>
+
+
+</html>
